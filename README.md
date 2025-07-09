@@ -1,19 +1,25 @@
 ![logo](back.jfif)
-
 <h1 align="center">Hi 👋, I'm RaheemUllah</h1>
-<h3 align="center">💻 Full Stack Developer | MERN Stack & Next.js Expert | TypeScript Enthusiast | 🇵🇰 Pakistan</h3><img src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg" alt="Description" align="right" width="400">
+<h3 align="center">💻 Full Stack Developer | 🚀 MERN Stack & Next.js Expert | ⚡ TypeScript Enthusiast | 🇵🇰 Pakistan</h3><img src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg" alt="Description" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheemullah8&label=Profile%20views&color=0e75b6&style=flat" alt="raheemullah8" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Raheemullah8](https://github.com/Raheemullah8)
-
-- 📫 How to reach me **raheem3434a@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+🔭 I'm currently working on <strong>Full Stack Web Applications</strong><br>
+🌱 I'm currently learning <strong>Advanced Next.js & TypeScript</strong><br>
+💬 Ask me about <strong>React, Node.js, MongoDB, PostgreSQL</strong><br>
+📫 How to reach me <strong>raheem3434a@gmail.com</strong><br>
+⚡ Fun fact <strong>I love building scalable web applications!</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://pk.linkedin.com/in/raheemullah8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheemullah8" height="30" width="40" /></a>
+<a href="https://github.com/Raheemullah8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="raheemullah8" height="30" width="40" /></a>
+<a href="mailto:raheem3434a@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="raheemullah8" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
@@ -31,6 +37,7 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raheemullah8&show_icons=true&locale=en&layout=compact" alt="raheemullah8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raheemullah8&show_icons=true&locale=en" alt="raheemullah8" /></p>
