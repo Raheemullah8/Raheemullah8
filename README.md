@@ -1,45 +1,110 @@
-![logo](back.jfif)
-<h1 align="center">Hi 👋, I'm RaheemUllah</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 MERN Stack & Next.js Expert | ⚡ TypeScript Enthusiast | 🇵🇰 Pakistan</h3><img src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg" alt="Description" align="right" width="400">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raheemullah8&label=Profile%20views&color=0e75b6&style=flat" alt="raheemullah8" /> </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:a78bfa&height=200&section=header&text=RaheemUllah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=16&descColor=c7d2fe)
 
-<p align="left">
-🔭 I'm currently working on <strong>Full Stack Web Applications</strong><br>
-🌱 I'm currently learning <strong>Advanced Next.js & TypeScript</strong><br>
-💬 Ask me about <strong>React, Node.js, MongoDB, PostgreSQL</strong><br>
-📫 How to reach me <strong>raheem3434a@gmail.com</strong><br>
-⚡ Fun fact <strong>I love building scalable web applications!</strong>
-</p>
+</div>
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://pk.linkedin.com/in/raheemullah8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheemullah8" height="30" width="40" /></a>
-<a href="https://github.com/Raheemullah8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="raheemullah8" height="30" width="40" /></a>
-<a href="mailto:raheem3434a@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="raheemullah8" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=raheemullah8&label=Profile+Views&color=4f8ef7&style=flat-square)](https://github.com/Raheemullah8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raheemullah8-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/raheemullah8)
+[![GitHub](https://img.shields.io/badge/GitHub-Raheemullah8-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Raheemullah8)
+[![Email](https://img.shields.io/badge/Email-raheem3434a%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raheem3434a@gmail.com)
+[![Pakistan](https://img.shields.io/badge/📍-Karachi%2C%20Pakistan-01411C?style=flat-square)](https://github.com/Raheemullah8)
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raheemullah8&show_icons=true&locale=en&layout=compact" alt="raheemullah8" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raheemullah8&show_icons=true&locale=en" alt="raheemullah8" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raheemullah8&" alt="raheemullah8" /></p>
+## 👨‍💻 About Me
+
+```typescript
+const raheemullah = {
+  role:      "Full Stack Developer",
+  location:  "Karachi, Pakistan 🇵🇰",
+  stack:     ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL"],
+  learning:  "Advanced Next.js & TypeScript",
+  working:   "Full Stack Web Applications",
+  funFact:   "I love building scalable web applications! ⚡",
+  contact:   "raheem3434a@gmail.com",
+};
+```
+
+---
+
+## 🚀 What I'm up to
+
+| | |
+|---|---|
+| 🔭 **Working on** | Full Stack Web Applications |
+| 🌱 **Learning** | Advanced Next.js & TypeScript |
+| 💬 **Ask me about** | React, Node.js, MongoDB, PostgreSQL |
+| 📫 **Reach me at** | raheem3434a@gmail.com |
+| ⚡ **Fun fact** | I love building scalable web apps! |
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raheemullah8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raheemullah8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9" width="49%" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raheemullah8&theme=tokyonight&hide_border=true&background=0d1117&ring=4f8ef7&fire=fbbf24&currStreakLabel=4f8ef7&sideLabels=6b7280&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raheemullah8&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4f8ef7&line=a78bfa&point=fbbf24)
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/raheemullah8)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raheemullah8)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raheem3434a@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:4f8ef7&height=100&section=footer)
+
+</div>
